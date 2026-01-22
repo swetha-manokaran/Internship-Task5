@@ -13,7 +13,6 @@ This repository contains the work for Task 5 of the Cyber Security Internship.
 
 ## Files Included
 - malware_report.txt
-- malware_report.pdf
 
 ## Outcome
 Gained basic awareness of malware detection and analysis.
